@@ -8,7 +8,7 @@
 body {
     background-color: var(--bg-color);
     color: var(--text-main);
-    font-family: -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "monospace", sans-serif;
     margin: 0;
     padding: 40px;
     -webkit-font-smoothing: antialiased;
@@ -24,7 +24,6 @@ h1 {
     font-size: 1.5rem;
     font-weight: 300;
     letter-spacing: 3px;
-    text-transform: uppercase;
     margin-bottom: 0.5rem;
 }
 

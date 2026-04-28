@@ -11,5 +11,6 @@ collections:
     output: true
     permalink: /blog/:path/
 
-# Markdown settings
 markdown: kramdown
+
+theme: []

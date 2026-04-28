@@ -1,31 +1,57 @@
+:root {
+    --bg-color: #121212;
+    --card-bg: #ffffff;
+    --text-primary: #e0e0e0;
+    --text-muted: #888888;
+}
+
 body {
-    background: #fdfdfd;
-    color: #1a1a1a;
-    font-family: -apple-system, system-ui, sans-serif;
-    line-height: 1.6;
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     margin: 0;
-    padding: 2rem;
+    padding: 5vh 5vw; /* Using viewport units for consistent margins */
 }
 
 .gallery-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 2rem;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 40px;
 }
 
+/* The White Frame - Keeps the B&W photography pop */
 .photo-frame {
-    background: #fff;
-    padding: 20px; /* The white passpartout */
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-    margin-bottom: 2rem;
+    background: var(--card-bg);
+    padding: 15px; /* Roughly 1.5cm on standard screens */
     display: block;
+    transition: transform 0.2s ease-in-out;
 }
 
-img {
-    max-width: 100%;
+.photo-frame:hover {
+    transform: scale(1.01);
+}
+
+.photo-frame img {
+    width: 100%;
     height: auto;
     display: block;
+    filter: grayscale(100%); /* Ensures the thumb is strictly B&W */
 }
 
-h1, h3 { font-weight: 300; letter-spacing: 1px; }
-a { color: inherit; text-decoration: none; }
+h1, h3 {
+    font-weight: 200;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 0.9rem;
+    margin-top: 15px;
+    color: var(--text-primary);
+}
+
+.meta {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    margin-bottom: 3rem;
+}

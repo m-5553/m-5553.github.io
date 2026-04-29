@@ -7,7 +7,7 @@ I'm mus. This website is a minimalist repository of observations.
 
 My work tends to explore what i call "slice of life", streets, architecture and various feelings that i want to narrate. This is currently more of an alfa version of my final website.
 
-Below is a collection of my work in photography since march of 2026 when i got a ***ricoh gr iii*** as my first "proper" camera and started my journey in photography. In the future i will add blog like posts about topics that interest me like minimalism, technology, coffee...
+Below is a collection of my work in photography since march of 2026 when i got a **RICOH GR III** since i wanted to learn photography for an upcoming trip in august and started my journey in photography (photos are after experiences best sorts of souveniers and pieces of free-willed memories we make along the way). In the future i will add blog like posts about topics that interest me like technology, music, minimalism, cooking...
 
 
 <div class="strong-index">

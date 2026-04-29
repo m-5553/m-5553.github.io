@@ -37,7 +37,7 @@ a {
     transition: color 0.1s ease;
 }
 
-/* --- The Unified Index Feed --- */
+/* --- The Unified Index Feed , loops through all posts and displays them --- */
 
 .strong-index {
     display: grid;
@@ -85,12 +85,12 @@ a {
     width: 100%;       /* Scale to full width of parent box */
     height: auto;      /* Maintain aspect ratio - DO NOT CROP */
     display: block;
-    filter: grayscale(100%) contrast(110%);
+    /*filter: grayscale(100%) contrast(110%);*/
     transition: filter 0.3s ease;
 }
 
 .feed-entry:hover .gritty-thumb {
-    filter: grayscale(100%) contrast(150%);
+    filter: contrast(150%);  /*grayscale(100%) contrast(150%);*/
 }
 
 .text-preview {

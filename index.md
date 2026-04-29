@@ -7,6 +7,9 @@ I'm mus. This website is a minimalist repository of observations.
 
 My work tends to explore what i call "slice of life", streets, architecture and various feelings that i want to narrate. This is currently more of an alfa version of my final website.
 
+Below is a collection of my work in photography since march of 2026 when i got a ***ricoh gr iii*** as my first "proper" camera and started my journey in photography. In the future i will add blog like posts about topics that interest me like minimalism, technology, coffee...
+
+
 <div class="strong-index">
 
 {% assign feed = site.books | concat: site.posts | sort: "date" | reverse %}
@@ -35,7 +38,5 @@ My work tends to explore what i call "slice of life", streets, architecture and 
 </div>
 
 ---
-
-Feel free to write more text here after the loop if you wish.
 
 Send me an email: <autumntrees@protonmail.com>

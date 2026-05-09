@@ -1,51 +1,41 @@
 ---
 layout: book
 title: "Ljubljana in BW"
-date: 2026-04-28
+date: 2026-05-09
 location: "Ljubljana, Slovenia"
-cover_image: "/assets/img/R0007536.JPG"
+cover_image: "/assets/img/blur.JPG"
 ---
 
-Color is often a distraction and with stripping it we see the distilled feelings behind a photo.
+Color is often a distraction and by stripping it we see the distilled feelings and energy behind a photo.
 
-Ricoh GR III made me see the unseen beauty in black and white, it truly is something else.
+Being inspired by the Daido Moriyama and Ricoh GR III made me see the unseen beauty in black and white photography.
 
-NLB Towers
+# Blur
 <div class="photo-frame">
-  <img src="{{ '/assets/img/R0007536.JPG' | relative_url }}" alt="NLB Towers">
+  <img src="{{ '/assets/img/blur.JPG' | relative_url }}" alt="NLB Towers">
 </div>
 
-NLB Towers 2
+# Towers
 <div class="photo-frame">
-  <img src="{{ '/assets/img/R0007470.JPG' | relative_url }}" alt="NLB Towers 2">
+  <img src="{{ '/assets/img/nlbtowers.JPG' | relative_url }}" alt="NLB Towers">
 </div>
 
-Walking on a warm april day
+# Walking
 <div class="photo-frame">
-  <img src="{{ '/assets/img/R0007296.JPG' | relative_url }}" alt="man walking">
+  <img src="{{ '/assets/img/walking.JPG' | relative_url }}" alt="man walking">
 </div>
 
-Cyclist
+# Machine
 <div class="photo-frame">
-  <img src="{{ '/assets/img/R0007317.JPG' | relative_url }}" alt="cyclist">
+  <img src="{{ '/assets/img/machine.JPG' | relative_url }}" alt="train">
 </div>
 
-Building in progress
+# Reflection
 <div class="photo-frame">
-  <img src="{{ '/assets/img/R0007526.JPG' | relative_url }}" alt="cranes">
+  <img src="{{ '/assets/img/reflections.JPG' | relative_url }}" alt="2walking">
 </div>
 
-Machine
-<div class="photo-frame">
-  <img src="{{ '/assets/img/R0007185.JPG' | relative_url }}" alt="train">
-</div>
-
-Glass reflection
-<div class="photo-frame">
-  <img src="{{ '/assets/img/R0006566.JPG' | relative_url }}" alt="glass">
-</div>
-
-Walking together
+# together
 <div class="photo-frame">
   <img src="{{ '/assets/img/2walkingbw.JPG' | relative_url }}" alt="2walking">
 </div>

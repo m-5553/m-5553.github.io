@@ -1,14 +1,13 @@
 ---
 layout: default
-title: "Mus photography blog"
+title: "mus455 photography blog"
 ---
 
-I'm mus. This website is a minimalist repository of observations.
+### Hi, I'm Matija. This website is my minimalist repository of observations.
 
-My work tends to explore what i call "slice of life", streets, architecture and various feelings that i want to narrate. This is currently more of an alfa version of my final website.
+My work tends to explore what i call **slice of life** : streets, architecture and various feelings that i want to narrate. This is currently more of an beta version of my final website.
 
-Below is a collection of my work in photography since march of 2026 when i got a **RICOH GR III** since i wanted to learn photography for an upcoming trip in august and started my journey in photography (photos are after experiences best sorts of souveniers and pieces of free-willed memories we make along the way). In the future i will add blog like posts about topics that interest me like technology, music, minimalism, cooking...
-
+Below is a collection of my work in photography since the march of 2026 when i got a **RICOH GR III** since i wanted to learn photography for an upcoming trip and started my journey in photography (photos are after experiences best sorts of souveniers and pieces of free-willed memories we make along the way). In the future i will add blog like posts about topics that interest me like technology, music, minimalism, cooking...
 
 <div class="strong-index">
 
@@ -37,6 +36,12 @@ Below is a collection of my work in photography since march of 2026 when i got a
 
 </div>
 
----
+My inspiration mainly comes from other photographers, music and anime:
+- Daido Moriyama, Mookio, Garry Winogrand, Yoshitoshi ABe, various photos from imageboards
+- Number Girl, Sunny Day Real Estate, Jimmy Eat World, The Get Up Kids, College
+- NHK ni Youkoso!, Haibane Renmei, Serial Experiments Lain, Bakemonogatari, GTO, Texhnolyze   .
 
-Send me an email: <autumntrees@protonmail.com>
+All of the images are SOOC. I use **[mookio's settings](https://blog.mookio.net/2019/10/ricoh-gr.html)**. 
+
+### Send me an email: <autumntrees@protonmail.com>
+

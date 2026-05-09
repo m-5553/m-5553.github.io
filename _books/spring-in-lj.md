@@ -1,37 +1,34 @@
 ---
 layout: book
-title: "2026 Spring in Ljubljana"
+title: "Ljubljana in Spring '26"
 date: 2026-04-29
 location: "Ljubljana, Slovenia"
-cover_image: "/assets/img/sakura1.JPG"
+cover_image: "/assets/img/sakura.JPG"
 ---
 
-this is a small collection of shots taken during the 2026 spring in the ljubljana area
+This is a small collection of shots taken during the 2026 spring in the ljubljana area. These are some of my first photos taken with the gr iii.
 
+# sakura
 <div class="photo-frame">
-  <img src="{{ '/assets/img/sakura1.JPG' | relative_url }}" alt="sakura 1">
+  <img src="{{ '/assets/img/sakura.JPG' | relative_url }}" alt="sakura">
 </div>
 
+# light pillars
 <div class="photo-frame">
-  <img src="{{ '/assets/img/sakura2.JPG' | relative_url }}" alt="sakura 2">
+  <img src="{{ '/assets/img/pillars.JPG' | relative_url }}" alt="pillars">
 </div>
 
+# pass
 <div class="photo-frame">
-  <img src="{{ '/assets/img/oldmanreflection.JPG' | relative_url }}" alt="old man reflection">
+  <img src="{{ '/assets/img/pass.JPG' | relative_url }}" alt="pass">
 </div>
 
+# shop
 <div class="photo-frame">
-  <img src="{{ '/assets/img/sweets.JPG' | relative_url }}" alt="sweets">
+  <img src="{{ '/assets/img/store.JPG' | relative_url }}" alt="store">
 </div>
 
-<div class="photo-frame">
-  <img src="{{ '/assets/img/istore.JPG' | relative_url }}" alt="istore">
-</div>
-
+# working
 <div class="photo-frame">
   <img src="{{ '/assets/img/working.JPG' | relative_url }}" alt="working">
-</div>
-
-<div class="photo-frame">
-  <img src="{{ '/assets/img/station.JPG' | relative_url }}" alt="station">
 </div>

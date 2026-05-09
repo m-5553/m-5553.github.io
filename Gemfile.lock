@@ -274,6 +274,7 @@ DEPENDENCIES
   bigdecimal
   csv
   github-pages
+  jekyll-seo-tag
   mutex_m
   wdm
   webrick

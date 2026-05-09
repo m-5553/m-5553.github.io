@@ -1,8 +1,11 @@
-title: "mus street photography"
-author:  "mus_photography"
+title: "m-5553 photography"
+author:  "m-5553"
 baseurl: "" 
-url: "https://mus455.github.io"
-author: mus
+url: "https://m-5553.github.io"
+author: 
+  name : Matija "m-5553"
+  email: autumntrees@protonmail.com
+license: "https://creativecommons.org/licenses/by-nc/4.0/"
 
 collections:
   books:
@@ -15,3 +18,6 @@ collections:
 markdown: kramdown
 
 theme:
+
+plugins:
+- jekyll-seo-tag

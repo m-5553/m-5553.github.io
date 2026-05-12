@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "mus455 photography blog"
+title: "m-5553 photography"
 ---
 
 ### Hi, I'm Matija. This website is my minimalist repository of observations.
